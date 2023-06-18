@@ -1,4 +1,4 @@
-##WinAPI_sendNreadTonesFromToEEPROM
+WinAPI_sendNreadTonesFromToEEPROM
 
 This project demonstrates a WinAPI program that sends keypress data over UART and reads data from EEPROM. It uses the Windows API functions to establish a serial connection, send keypress information, and receive data from an EEPROM device.
 
